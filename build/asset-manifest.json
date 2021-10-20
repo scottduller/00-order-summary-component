@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/frontend-mentor/static/js/main.dbf7e44a.chunk.js",
+    "main.js.map": "/frontend-mentor/static/js/main.dbf7e44a.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor/static/js/runtime-main.b35706ea.js",
+    "runtime-main.js.map": "/frontend-mentor/static/js/runtime-main.b35706ea.js.map",
+    "static/js/2.408fdbe2.chunk.js": "/frontend-mentor/static/js/2.408fdbe2.chunk.js",
+    "static/js/2.408fdbe2.chunk.js.map": "/frontend-mentor/static/js/2.408fdbe2.chunk.js.map",
+    "index.html": "/frontend-mentor/index.html",
+    "static/js/2.408fdbe2.chunk.js.LICENSE.txt": "/frontend-mentor/static/js/2.408fdbe2.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/frontend-mentor/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/frontend-mentor/static/media/illustration-hero.73032583.svg",
+    "static/media/pattern-background-desktop.5a0ab689.svg": "/frontend-mentor/static/media/pattern-background-desktop.5a0ab689.svg",
+    "static/media/pattern-background-mobile.c8d50fcb.svg": "/frontend-mentor/static/media/pattern-background-mobile.c8d50fcb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b35706ea.js",
+    "static/js/2.408fdbe2.chunk.js",
+    "static/js/main.dbf7e44a.chunk.js"
+  ]
+}
