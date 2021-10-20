@@ -93,7 +93,7 @@ const index = () => {
 
 ### Continued development
 
-Continuing with the frontend mentor projects I will continue to research more effective responsive methods for CSS and learn more advanced styled component techniques.
+Continuing with the frontend mentor projects I will continue to research more effective responsive methods for CSS and learn more advanced styled component techniques to make an easier CSS workflow.
 
 ## Author
 
