@@ -24,8 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
-
+<p align="center">
+<img src="screenshot.png" width="300"/>
+</p>
 ### Links
 
 -   Solution URL: [Solution](https://github.com/scottduller/00-order-summary-component)
